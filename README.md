@@ -1,3 +1,6 @@
+Some part of this project learned from tutorial from internet. 
+本项目是我在互联网上学习的时候跟着作者编写代码的。具体笔记步骤如下：
+
 #1  新建constants folder,设置Action对应的常量值；
 #2  建立actions folder,建立action的js文件，引入已经创建好的actions常量，根据逻辑设立所会发生的action,比如load, load success, load fail.
 #3  建立  reducers folder, 编写相对应的reducer 函数并引入actions常量,设置对应的actions变化引起的新state：
